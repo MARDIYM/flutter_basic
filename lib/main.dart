@@ -35,8 +35,8 @@ class _MyHomePageState extends State<MyHomePage> {
   bool isLoading = true;
 
   List<Mahasiswa> listMahasiswa = [
-    Mahasiswa(nim: 123, name: 'Siti', address: 'Hutabohu'),
-    Mahasiswa(nim: 456, name: 'Elan', address: 'Paguyaman'),
+    Mahasiswa(nim: 123, name: 'Aman', address: 'Hutabohu'),
+    Mahasiswa(nim: 456, name: 'Mardi', address: 'Marisa'),
     Mahasiswa(nim: 178, name: 'Ferdi', address: 'Batudaa'),
     Mahasiswa(nim: 190, name: 'Fandi', address: 'Bongomeme')
   ];
